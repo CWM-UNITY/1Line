@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{842868E3-F537-31D5-9351-3FA31C79236E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OneLine/_Scripts/TextManger.cs">
+    <Files>
+      <File FileName="Assets/OneLine/_Scripts/UnlockPackageDialog.cs" Line="27" Column="19" />
+      <File FileName="Assets/OneLine/_Scripts/UIController.cs" Line="76" Column="12" />
+      <File FileName="Assets/OneLine/_Scripts/TextManger.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1Line" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OneLine" expanded="True">
+                <Node name="_Scripts" expanded="True">
+                  <Node name="TextManger.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="343b13b2-57b8-4854-bd3a-0f6c68a6b808" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
